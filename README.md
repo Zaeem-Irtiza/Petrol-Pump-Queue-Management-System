@@ -2,6 +2,8 @@
 
 A high-performance computer vision system that analyzes vehicle queues from CCTV footage to estimate waiting time, congestion levels, and throughput, and generates actionable operational insights.
 
+
+
 Built to simulate real-world traffic optimization problems using deep learning + tracking + analytics.
 
 🎯 Key Impact
@@ -88,15 +90,41 @@ Medium congestion → Optimize operations
 
 Low congestion → System running efficiently
 
-📊 Output
+📊 Results & Visual Outputs
 
-🎥 Annotated Video (Q result.mp4)
+🎥 Processed Video Output
 
-📈 Analytics Dashboard (Queue_analysis.png)
+Annotated video (Q result.mp4) showing:
 
-🧾 Console Metrics:
-Total vehicles processed
+Bounding boxes + tracking IDs
+
+Queue zone visualization
+
+Live overlay:
+
+Queue length
+
 Average wait time
+
+Total vehicles processed
+
+System recommendation
+
+![Demo](assets/Q result.gif)
+
+📈 Analytics Dashboard
+
+Generated automatically after processing:
+
+Average Wait Time vs Time
+
+Queue Length vs Time
+
+Cumulative Vehicles Processed
+
+Wait Time Distribution
+
+![Analytics Dashboard](traffic_analysis.png)
 
 🧪 Example Use Cases
 Petrol pump queue optimization
