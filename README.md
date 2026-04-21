@@ -110,7 +110,7 @@ Total vehicles processed
 
 System recommendation
 
-[Watch Demo](assets/Q_result.mp4)
+[Watch Demo](assets/Q_Result.mp4)
 
 📈 Analytics Dashboard
 
