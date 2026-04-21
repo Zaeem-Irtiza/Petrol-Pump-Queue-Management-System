@@ -110,7 +110,7 @@ Total vehicles processed
 
 System recommendation
 
-![Demo](assets/Q result.mp4)
+[Watch Demo](assets/Q_result.mp4)
 
 📈 Analytics Dashboard
 
@@ -124,7 +124,7 @@ Cumulative Vehicles Processed
 
 Wait Time Distribution
 
-![Analytics Dashboard](traffic_analysis.png)
+![Analytics Dashboard](assets/traffic_analysis.png)
 
 🧪 Example Use Cases
 Petrol pump queue optimization
